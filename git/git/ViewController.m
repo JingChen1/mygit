@@ -15,11 +15,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"hello world");
-    NSLog(@"123456");
-    NSInteger i = 100;
-    NSLog(@"----%zd",i);
-
 }
 
 
