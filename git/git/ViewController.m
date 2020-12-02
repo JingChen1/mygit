@@ -17,6 +17,7 @@
     [super viewDidLoad];
     NSLog(@"hello world");
     NSLog(@"123");
+    NSInteger i = 100;
 
 }
 
