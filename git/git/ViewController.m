@@ -19,6 +19,7 @@
     NSLog(@"----2");
     NSLog(@"----3");
     NSLog(@"ceshi----1");
+    NSLog(@"ceshi----2");
 }
 
 
